@@ -3,3 +3,4 @@
 - **pricing_barrier_options**: *Simulates asset paths under different models (with mathematical formulas) and prices barrier options based on the simulated paths.*
 - **simple_snake_game**: *Object oriented snake game using the turtle library.*
 - **MySQL - Data Cleaning & EDA**: *Data Cleaning and Exploratory Data Analysis on a dataset containing information about layoffs worldwide 2020/03/11 - 2023/03/06.*
+- **terminal-based-puzzle**: *A small C# project that creates a puzzle game in the terminal.*
